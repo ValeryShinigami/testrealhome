@@ -1,0 +1,24 @@
+.cop{
+    background-color: #080719;
+   
+    
+    
+}
+
+.foot{
+    background-color: #39BAC6;
+    
+}
+
+.cop, .foot, .ecrit{
+    color: white;
+}
+
+.ecrit{
+    text-decoration: none;
+    ;
+}
+
+.ecrit:hover{
+    color: black;
+}
